@@ -162,7 +162,7 @@ export const NotionPage: React.FC<types.PageProps> = ({
       nextLink: Link,
       Code,
       Collection,
-      Equation,
+      equation:Equation,
       Pdf,
       Modal,
       Tweet,
