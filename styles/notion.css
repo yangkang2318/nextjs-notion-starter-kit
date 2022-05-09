@@ -94,6 +94,7 @@
   border-bottom: 0 none;
   transition: filter 150ms linear;
   filter: none;
+  height:100%
 }
 
 .notion-collection-card:hover .notion-collection-card-cover {
